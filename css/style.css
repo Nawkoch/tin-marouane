@@ -1,0 +1,20 @@
+#welcome-section{
+    height: 754px;
+    background-color: grey;
+    text-align: center;
+    color: royalblue;
+}
+#projects{
+    background-color: red;
+    color: royalblue;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+#profile-link{
+    background-color: red;
+    color: royalblue;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
